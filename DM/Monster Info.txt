@@ -1,0 +1,109 @@
+Aarakocra
+Tribes of aarakocra live atop the mountains and plateaus of Chult. Aarakocra leaders are skilled dancers who use their dances to inspire their followers as well as cast spells.
+Aarakocra strive to defend the land against the forces of evil. They have a reputation for aiding explorers who are lost, sick, or in some other trouble, provided 
+those explorers aren’t intent on plundering Chult’s natural resources or exploiting its inhabitants. The aarakocra are natural enemies of pterafolk and the gargoyles of Omu.
+One aarakocra tribe has laid claim to a remote Chultan monastery called Kir Sabal. This site’s existence is well known in Port Nyanzaru because the structures can be seen 
+from the River Olung through occasional breaks in the jungle along the eastern bank. Little is known beyond that, however, because the cliffside structures are so difficult 
+to reach from the ground. The aarakocra there shelter the last descendants of Omu’s royal family, who hope to someday restore their reign.
+
+Batiri (Goblins)
+Chult is home to scores of independent goblin tribes collectively known as the Batiri. A Batiri tribe is ruled by a queen (use the goblin boss statistics). 
+When a queen dies, fighting ensues until a new queen emerges victorious and proclaims herself ruler of the tribe. While the Batiri have many cultural and mythical aspects 
+that make them unique, they behave essentially like other goblins; they are superstitious, cruel, suspicious of outsiders, fractious among themselves, and just as likely to 
+torture and eat other humanoids as they are to trade with them. They are not only sadistic but highly creative in their tortures. For example, they enjoy tying enemies to 
+trees, dousing them in honey, and leaving them to be devoured by insects over the course of several days, if a larger predator doesn’t finish them off first.
+
+War Masks. Batiri warriors wear oversized wooden war masks into combat. Each goblin paints and decorates its own mask to make it look as fearsome as possible. 
+Aside from intimidating enemies, these masks serve the same purpose among the Batiri as coats of arms among noble knights of Faerûn. Batiri of opposing tribes might 
+not know an enemy’s given name, but they’ll know Snarling Crocodile or Fanged Ape.
+
+Battle Stacks. Batiri warriors sometimes ride on each other’s shoulders in battle, in a formation known as a battle stack. These can be up to nine goblins tall. Each goblin tracks 
+its hit points individually, but the stack moves and makes ability checks, attack rolls, and saving throws as one creature. Only the goblin at the top of the stack can attack, and 
+only the goblin at the bottom can move (all goblins stacked on its shoulders move with it). The goblin at the top makes all Intelligence, Wisdom, and Charisma ability checks and 
+saving throws for the stack. The goblin at the bottom makes all Strength, Dexterity, and Constitution ability checks and saving throws for the stack. A battle stack can’t jump, 
+but it can grapple or shove another creature, swing from vines, and use the Dash, Disengage, Dodge, and Hide actions. The stack has advantage on melee attacks because of its 
+built-in “pack tactics” effect; all the goblins are waving spears at the enemy, even if only one can hit.
+
+When a goblin in the stack drops to 0 hit points, it is thrown from the stack. If the stack succeeds on a DC 10 Dexterity saving throw, it remains intact (albeit one goblin shorter). 
+On a failed save, the stack collapses and all the goblins fall prone in a 5-foot-square space.
+
+To form a new battle stack, a goblin must use its action to climb onto the shoulders of another willing goblin within 5 feet of it. Other goblins can join an existing battle stack in the same way. 
+A goblin can use its action to remove itself from a battle stack, landing in an unoccupied space within 5 feet of the bottom of the stack.
+
+The Batiri invented battle stacks as a way to combat creatures much larger than themselves as well as a way to reach enemies in trees. The battle stack formation has the added 
+effect of making the puny goblins appear taller and more fearsome to their larger enemies. Battle stacks are not effective against other ground-based threats, since all but the 
+topmost goblin give up their attacks and mobility to be part of the stack.
+
+Dwarves
+
+Most of the shield dwarf strongholds beneath Chult were destroyed by intense volcanic activity. Hundreds of dwarves were forced to flee their collapsing halls, only to be slaughtered 
+and devoured by jungle predators. A few made it to Port Nyanzaru, where they remain to this day. Some of these survivors are albinos
+
+Frost Giants
+
+Twenty frost giants came to Chult in search of the Ring of Winter. Their ship is anchored north of Kitcher’s Inlet, and teams of frost giants are scouring the jungle for signs of the 
+ring and its wearer, Artus Cimber. A female frost giant named Drufi leads the hunt. So far the frost giants have gone about their business unnoticed, but it’s only a matter of time 
+before they encounter a Flaming Fist patrol from Fort Beluarian. The frost giants hate Chult and its climate, but they won’t give up the search for the ring no matter what the cost.
+
+Grungs
+
+These predominantly evil frog folk live in villages scattered throughout the jungle. They build their structures from mud, vines, and wicker, and are more comfortable in trees than on the ground. 
+They pepper enemies with poisoned arrows and leap from branch to branch without leaving any trail.
+
+Not all grungs are evil. A few are willing to help explorers in exchange for food or treasure. Evil or not, grungs warn away intruders by hanging the bodies of slain foes from trees at the edge of their territory.
+
+Some Chultan guides are aware of one grung village due south of Port Nyanzaru, just above the headwater of the River Tiryki (pronounced tee-REE-kee). For more information on this village, see “Dungrunglung."
+
+Pterafolk (“Terror Folk”)
+
+These malevolent flying reptilian humanoids swoop down on unsuspecting prey, steal what they can, and retreat to their high lairs to gloat over their stolen loot. The suddenness and violence of their 
+raids has earned them the nickname “terror folk” among other races of Chult. They are natural enemies of the aarakocra.
+
+Tabaxi
+
+Tabaxi are feline humanoids, originally native to the western continent of Maztica. Some Chultans refer to them as “cat folk” or “leopard people.” Groups of tabaxi wound up in Chult after escaping from 
+slavers. They are a cultured people and seldom evil. A few work as guides out of Port Nyanzaru. Others enter the jungle in small groups to hunt grungs and goblins for their own purposes.
+
+Tabaxi hunters can be encountered anywhere in Chult. Tabaxi minstrels are seldom met outside Port Nyanzaru.
+
+Undead
+
+Over a century ago, the warlord Ras Nsi raised an undead army to conquer the city of Mezro. The army consisted mainly of dead Chultans raised as zombies and cannibals transformed into ghouls. 
+Ras Nsi and his legion were defeated and driven back into the jungle. Before Ras Nsi could organize another attack, Mezro planeshifted away, and Ras Nsi was stripped of his god-given powers. 
+Declaring himself an enemy of the world, he threw his lot in with the yuan-ti. The remnants of Ras Nsi’s undead army spread through the jungle like a blight, until now they claim hundreds of miles 
+of wilderness as their hunting ground. To make matters worse, Acererak filled out their ranks with horrible undead creatures such as girallon zombies and tyrannosaurus zombies (see appendix D), 
+mainly to discourage explorers from getting too close to Omu. As the atropal feeds on the souls of the dead, it grows in power. Eventually, it will become powerful enough to control these ravenous 
+undead creatures. Until then, the undead hordes of Chult have no leader.
+
+Weretigers
+
+Chultans infected with weretiger lycanthropy haunt the jungle in small families or prides. Everyone in Port Nyanzaru has heard this rumor, but not all believe it.
+
+Weretiger prides avoid outsiders, including adventurers, but a few evil weretigers enjoy making a sport of hunting intruders who come to plunder their land. Since weretigers can appear human, 
+they readily pose as Chultan hunters, guides, rescuers, or explorers to lure in prey. These evil weretigers usually worship Malar, the god of the hunt. Others continue worshiping whatever deities 
+they revered before becoming lycanthropes.
+
+Yuan-ti
+
+After being driven out of their ancient city (see “Hisari,”), the yuan-ti claimed the ruins of Omu as their demesne. Their spies in Port Nyanzaru keep a wary eye on the merchant princes, would-be 
+treasure hunters, and adventurers. Characters might also encounter yuan-ti purebloods, yuan-ti malisons, and yuan-ti abominations searching the jungle for hidden settlements and lost treasures.
+
+The yuan-ti of Omu believe that a sealed portal lies somewhere under the Peaks of Flame and that opening it will enable Dendar the Night Serpent to enter the world. The god Ubtao was supposed 
+to stand against Dendar, but with Ubtao gone from the world, the yuan-ti believe nothing can stop the Night Serpent. They have dedicated an underground temple to this serpentine destroyer of 
+worlds, but they are a long way from fulfilling their ultimate goal.
+
+GOD
+
+
+GODS OF CHULT
+
+A central figure in Chult’s history is the greater god Ubtao, who long protected the land and Chultan civilization. But Ubtao grew angry over his worshipers’ endless warring and their reliance on 
+him to solve all their problems. More than a century ago, Ubtao simply abandoned Chult, and his influence hasn’t been felt there since that day. When he left, the Chultans suffered a spiritual blow,
+but eventually the disunited, warring tribes learned to put aside their petty conflicts and unite as one people. To this day, the dinosaurs of Chult are still revered as Ubtao’s sacred children by many 
+Chultans, even though Ubtao himself is no longer popular.
+
+With Ubtao gone, the Chultans turned to other deities, including ones introduced to them by missionaries from distant civilizations. Waukeen, a goddess of trade, is revered by Port Nyanzaru’s many 
+merchants. Other deities with shrines in the city include Gond (god of craft), Savras (god of divination and fate), Sune (goddess of love and beauty), and Tymora (goddess of good fortune).
+
+Besides spreading word of their deities, however, too many foreign missionaries also exploited the Chultans and their land for profit, which led to many conflicts. The temples and shrines persist, 
+but most of the clergy are now Chultans. Foreign clerics who proselytize too energetically aren’t welcomed in Port Nyanzaru.

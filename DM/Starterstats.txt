@@ -1,0 +1,40 @@
+Human Slave
+Medium humanoid (human), lawful neutral
+    Armor Class 14
+    Hit Points 8 (2d8)
+    Speed 30 ft.
+STR 12 (+1)
+DEX 11 (+0)
+CON 12 (+1)
+INT 10 (+0)
+WIS 10 (+0)
+CHA 10 (+0)
+
+Actions:
+Mulitattack: The initiate makes two attacks with its unarmed strike.
+Unarmed Strike: Melee Weapon Attack +3 to hit, reach 5ft, one target. Hit: 3(1d6) bludgeoning damage.
+
+Reactions
+Kick: Melee Weapon Attack +3 to hit, reach 5ft, one target. Hit: 4(1d8) bludgeoning damage. If the target is a creature smaller then you
+it must succeed on a DC 14 Strength saving throw or be knocked back 10ft.
+
+
+Almiraj
+Small Beast, Unaligned
+	Armor Class 13
+	Hit Points 3 (1d6)
+	Speed 50 ft.
+STR 2 (-4)
+
+Actions
+
+Horn. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
+
+Phoenix Fire
+
+You immolate yourself, consuming your flesh in a cloud of flame 20 feet high and 30 feet in diameter. 
+You die (no saving throw, and spell resistance does not apply). Every evil creature within the cloud takes 2d6 points of 
+damage per caster level (maximum 40d6). Neutral characters take half damage (and a successful Reflex save reduces 
+that further in half ), while good characters take no damage at all. Half of the damage dealt by the spell against any 
+creature is fire; the rest results directly from divine power and is therefore not subject to being reduced by resistance 
+to fire-based attacks, such as that granted by protection from energy (fire), fire shield (chill shield), and similar magic.

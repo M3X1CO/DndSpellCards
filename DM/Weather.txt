@@ -1,0 +1,6 @@
+Weather conditions
+On days that receive heavy rain, there’s a 25 percent chance of a full-blown tropical storm featuring sheets of rain, high wind, lightning, tall waves at sea, 
+and immense surf along the coast. Guides who know the conditions in Chult recommend hunkering down and staying put on these days. 
+Travel by river is impossible (canoes are swamped by waves within 15 minutes of launching). If characters insist on traveling by foot, every 
+character gains 1 level of exhaustion automatically and must make a successful DC 10 Constitution check or gain another. Skill checks to avoid 
+becoming lost are made with disadvantage on storm days.
