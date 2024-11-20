@@ -61,6 +61,9 @@ Syndra recommends that the characters secure rooms for themselves at either the 
 She gives them each a magical item and a letter of recomendation then dismisses herself.
 https://www.dndbeyond.com/sources/dnd/dmg-2014/other-rewards#LettersofRecommendation
 
+Veteran stat block
+https://www.dndbeyond.com/monsters/17045-veteran?srsltid=AfmBOooGq5COFvwC4qbdn8uJlp2hMFYUYBZ4lHUYIr1auUtpFEkqsamS
+
 
 Ekene-Afa
 
@@ -195,3 +198,5 @@ https://www.dndbeyond.com/sources/dnd/toa/the-land-of-chult#Navigation
 Dehydration, diseases
 https://www.dndbeyond.com/sources/dnd/toa/the-land-of-chult#Dehydration
 
+Poisons
+https://www.dndbeyond.com/sources/dnd/dmg-2014/running-the-game#PoisonsTable
