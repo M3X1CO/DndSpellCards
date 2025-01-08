@@ -1,0 +1,92 @@
+https://www.dndbeyond.com/monsters/17135-drow-mage
+
+https://5e.tools/bestiary/mapach-bandit-hwcs.html
+
+https://www.dndbeyond.com/monsters/16798-bandit?srsltid=AfmBOop-gAuf-YOiAcxF-IPkgoo9wcxsKWnV4_iBKDKECZIS82kkHdtY
+
+https://www.dndbeyond.com/monsters/17035-thug?srsltid=AfmBOopucGClTQIoSrU7-ASVQ-hhrfdxJByIaRE-p3U2H2rbCx851tHD
+
+level 6 monsters on this shot
+
+https://www.dndbeyond.com/monsters/16861-fire-elemental?srsltid=AfmBOopvvc33_01eo_316wGG4SEnDslOi1UIDU1rtPH9H1h57WAf4jX7
+
+https://5e.tools/bestiary/deinonychus-vgm.html
+
+
+
+
+
+
+
+
+
+	Narrativios
+
+The Weave of Life shop
+The shop sold a variety of decorative Chultan clothing—lightweight and colorfully patterned shirts, kilts, pants, and sarongs[3]—and a wide range of trade goods,[1] including trinkets, ivory sculptures, jewelry, and scarves. The entire inventory evoked local Chultan flavor and had clearly been curated by someone with a love for all things Chult.[2] The shop also sold pamphlets authored by Klevin that discussed topics related to local traditions and customs.[1]
+
+Klevin Lord's Alliance operative
+
+Chultan Shirt: Lightweight, made from cotton or silk, with vibrant geometric patterns. Each shirt might grant a +1 bonus to Charisma (Persuasion) checks when interacting with Chultan natives due to the cultural appreciation it shows.
+
+Kilt of the Jungle: A wrap-around kilt with intricate tribal patterns, offering a +1 bonus to Dexterity (Stealth) checks in jungle environments for blending in with the local flora.
+
+Chultan Trinkets: Small, decorative items like carved wooden animals or painted stones that could serve as gifts or bartering items in trade.
+
+"Chultan Flora and Fauna": A pamphlet that might give a temporary advantage on Nature checks related to Chultan plants and animals.
+
+"The Spirits of Chult": Discussing local spiritual practices, possibly giving an edge in Religion checks or in interactions with spiritual entities.
+
+Mask of the Chultan Spirits: A decorative mask that, when worn, might allow the wearer to communicate with minor spirits of the jungle, offering guidance or minor protection. Sylvan, Primordial, Celestial
+
+
+
+	Spirits
+
+Nine Trickster Gods (Spirits of Omu):
+These nine spirits, also known as the trickster gods of Omu, were primal spirits that became significant after the god Ubtao abandoned Chult. Each spirit is associated with a specific animal and alignment:
+
+    Moa - Lawful Good, represented by the Jackal.
+    I'jin - Chaotic Neutral, represented by the Almiraj (a horned rabbit).
+    Kubazan - Chaotic Neutral, represented by the Frog.
+    Nangnang - Neutral Evil, represented by the Monkey.
+    Obo'laka - Lawful Neutral, represented by the Zebra.
+    Papazotl - Chaotic Evil, represented by the Parrot.
+    Shagambi - Lawful Good, represented by the Elephant.
+    Unkh - True Neutral, represented by the Tortoise.
+    Wongo - Chaotic Evil, represented by the Lion.
+
+
+These spirits would inhabit creatures or objects, granting powers based on their characteristics, and were associated with trials and competitions in Omu.
+
+Other Spirits:
+
+    Chwingas: Although not deities or trickster gods, Chwingas are small, playful elemental spirits often found in Chult. They are generally benign, curious, and can provide aid or play tricks on adventurers. They are mentioned in posts on X as entities you might encounter in the jungle, suggesting to treat them kindly.
+    Nature Spirits: Ubtao, before his departure, imbued his essence into the land of Chult, creating various nature spirits. These spirits are not as individually named or detailed as the trickster gods but are part of the broader spiritual tapestry of the region. They could include spirits of the jungle, rivers, mountains, or animals.
+    Spiritlords: A sect of Ubtao's followers, the Spiritlords, deal with ensuring the safety and spiritual well-being of their clans by placating or working with these nature spirits. They aim not to offend ancestor spirits or elemental deities.
+    Eshowdow: A dark spirit or shadow entity born from Ubtao's essence, often seen as an antagonist force. It was released by the Eshowe tribe and led to significant conflicts and the near annihilation of the tribe.
+
+Ubtao and His Aspects:
+Ubtao, although not a spirit in the traditional sense, is the creator god of Chult. After he left, his essence was said to have fragmented into the many spirits of nature in Chult, influencing the land and its spiritual practices.
+
+
+	Slicer npc
+     Blade Dancer:
+        Armor Class: 16 (natural agility)
+        Hit Points: 110 (13d8 + 52)
+        Speed: 40 ft.
+        STR: 16 (+3), DEX: 18 (+4), CON: 18 (+4), INT: 10 (+0), WIS: 12 (+1), CHA: 14 (+2)
+        Saving Throws: Dex +7, Con +7
+        Skills: Acrobatics +7, Athletics +6
+        Senses: passive Perception 11
+        Languages: Common, one other of your choice
+
+    Actions:
+        Multiattack: The Blade Dancer makes three attacks with its longsword.
+        Longsword: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.
+        Blade Dance: When the Blade Dancer hits with an attack, it can use a bonus action to make an additional attack.
+        Razor Wind: The Blade Dancer can expend a use of this ability to create a gust of cutting air in a 15-foot cone. Each creature in that 	area must succeed on a DC 15 Dexterity saving throw or take 22 (4d10) slashing damage and be knocked back 10 feet.
+
+    Spells:
+	You move like the wind. Until the spell ends, your movement doesn’t provoke opportunity attacks.
+	Once before the spell ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra 1d8 	force damage on a hit. Whether you hit or miss, your walking speed increases by 30 feet until the end of that turn.
